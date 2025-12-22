@@ -54,7 +54,7 @@ student-task-manager/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/Bhumika611/student-task-manager.git
 
@@ -108,3 +108,4 @@ Terminal lo (root folder):
 git add README.md
 git commit -m "Add project README"
 git push
+
