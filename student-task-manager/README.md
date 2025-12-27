@@ -31,24 +31,13 @@ This app allows users to create, manage, filter, and track tasks with priority l
 - MongoDB Atlas
 
 ---
+## 🚀 Live Demo
 
-## 📂 Project Structure
+- **Frontend (Vercel):**  
+  https://student-task-manager-mu.vercel.app/
 
-student-task-manager/
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│
-├── frontend/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── api.js
-│ │ └── index.css
-│
-└── README.md
-
+- **Backend API (Render):**  
+  https://student-task-backend-c5lx.onrender.com/api/tasks
 
 ---
 
@@ -57,6 +46,7 @@ student-task-manager/
 ### Clone the repository
 ```bash
 git clone https://github.com/Bhumika611/student-task-manager.git
+```
 
 ### Backend setup
 
@@ -109,3 +99,4 @@ git add README.md
 git commit -m "Add project README"
 git push
 
+```
